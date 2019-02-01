@@ -3,9 +3,9 @@
 
 1) Enter Boot Menu.<br />
 2) Select Advance Menu<br />
-{{< figure src="../..//img/AdvanceMenu.jpg" title="Select Anvance Menu." >}}
+(https://github.com/BhaskarTrivedi/Installation-and-Enviornment-Building/blob/master/img/AdvanceMenu.jpg)
 3) Go to Boot Menu.<br />
-{{< figure src="../..//img/BootMenu.jpg" title="" >}}
+(https://github.com/BhaskarTrivedi/Installation-and-Enviornment-Building/blob/master/img/BootMenu.jpg)
 4) Select OS type to Windows UEFI mode.<br />
 {{< figure src="../../img/WindowsOS.jpg" title="" >}}
 5) Enter key management.<br />
